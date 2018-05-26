@@ -4,6 +4,8 @@ KNN
 
 Decision Tree
 
+Random Forest
+
 SVM
 
 Neural Network
